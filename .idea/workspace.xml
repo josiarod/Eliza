@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b4ad2df-447c-43af-92c4-81bfa44da636" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Eliza/Eliza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Eliza/Eliza.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Eliza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Eliza.java" afterDir="false" />
@@ -66,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580153821283</updated>
-      <workItem from="1580153825737" duration="4164000" />
+      <workItem from="1580153825737" duration="6140000" />
     </task>
     <servers />
   </component>
